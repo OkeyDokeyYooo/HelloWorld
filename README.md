@@ -1,2 +1,2 @@
 # HelloWorld
-print hello world in C
+Running this C++ program, program will print a `hello world` in the command line.
